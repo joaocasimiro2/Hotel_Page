@@ -88,6 +88,7 @@ p{
 
 .l-heading{
     font-size: 40px;
+    line-height: 1.2;
 }
 
 /*Padding*/
@@ -114,7 +115,7 @@ p{
     color: white;
 }
 
-.nav-container h1{
+.nav-container .logo{
     float: left;
     padding-top: 20px;
 }
@@ -167,7 +168,7 @@ p{
 /*Home info */
 
 #home-info{
-    height: 400px;
+    height: 450px;
 }
 
 #home-info .info-img{
