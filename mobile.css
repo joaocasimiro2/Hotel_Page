@@ -13,6 +13,11 @@
     border-bottom:#444 dotted 1px ;
 }
 
+
+.showcase .showcase-content{
+    padding-top: 80px;
+}
+
 /*Home info*/
 #home-info .info-img{
     display: none;
@@ -41,4 +46,12 @@
 
 #about-info .info-right{
     margin-top: 20px;
+}
+
+
+/*Contact*/
+
+#contact-info .box{
+    border-bottom: #444 dotted 1px;
+
 }
